@@ -1,12 +1,4 @@
 #!/bin/bash
-#
-# DeMod
-# ----------------------------------
-# description     : Script was written to help you disable security rules with ease for main domain / addon domains / subdomains
-# author          : Andy Vasile <andy.vasile@hostpapa.com>
-# date            : 16.03.2019
-# usage           : bash <(curl -s http://andyvasile.net/s/demod.sh) <DOMAIN.TLD> <RULE-ID>
-# =======
 
 function show_help () {
         echo "DeMod v.2.1 - written by Andy Vasile <andy.vasile@hostpapa.com>"
